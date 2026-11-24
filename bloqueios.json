@@ -1,5 +1,7 @@
 {
- "gerada": "2026-11-24T16:10:08Z",
- "bloqueadas": [],
- "assinatura": "f150c90dc1f3c053013ef135b14815f6b87d4d6f4470b1bf11e34c89d0eb536e9b9ee7f8ff2325d1d41f1a30d6dc7a42874779d560771919deb48d9ece75660a"
+ "gerada": "2026-11-24T16:30:30Z",
+ "bloqueadas": [
+  2
+ ],
+ "assinatura": "ba07b6b9b4ff059b96ec242a3eeecd2d6c046b478c3f8912ed038911f1e833348ffb795b152e526bb9df29492fcb8cfab8fd844e34e3560af6b9a79f1974af0e"
 }
